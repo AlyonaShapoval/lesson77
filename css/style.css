@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Abel', sans-serif;
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Comforter Brush', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Luxurious Roman', cursive;
+}
+.first{
+    width: 900px;
+    height: 500px;
+    background-color: blueviolet;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.first-inner{
+    width: 700px;
+    height: 300px;
+    margin: auto;
+
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.left{
+    width: 300px;
+    height: 200px;
+   
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.right{
+    width: 300px;
+    height: 200px;
+ 
+    display: flex;
+    flex-wrap: wrap;
+}
+.left_1{
+    width: 300px;
+    height: 40px;
+    background-color: violet;
+    
+}
+.left_2{
+    width: 45%;
+    height: 80px;
+    background-color: yellow;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.left_3{
+    width: 45%;
+    height: 50px;
+    background-color: rgb(170, 42, 9);
+    margin-left: 10px;
+    margin-top: -45px;
+}
+.left_4{
+    width: 45%;
+    height: 130px;
+    background-color: rgb(14, 207, 198);
+    margin-left: 10px;
+}
+.right_1{
+    width: 45%;
+    height: 40px;
+    background-color: rgb(170, 42, 9);
+    margin-top: 10px;
+    margin-left: 5px;
+       
+}
+.right_2{
+    width: 45%;
+    height: 50px;
+    background-color: rgb(14, 207, 198);
+    margin-top: 10px;
+    margin-left: 5px;
+       
+}
+.right_3{
+    width: 45%;
+    height: 30px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+       
+}
+.right_4{
+    width: 300px;
+    height: 50px;
+    background-color: violet;
+    margin-top: 5px;
+  
+    
+}
+.right_5{
+    width: 45%;
+    height: 20px;
+    background-color: rgb(14, 207, 198);
+    margin-top: 10px;
+    margin-left: 5px;
+       
+}
+.right_6{
+    width: 45%;
+    height: 40px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 5px;
+       
+}
+.right_7{
+    width: 45%;
+    height: 20px;
+    background-color: rgb(170, 42, 9);
+    margin-top: 10px;
+    margin-left: 5px;
+       
+}
